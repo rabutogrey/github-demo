@@ -1,0 +1,7 @@
+http://researchcenter.paloaltonetworks.com/2015/01/dridex-banking-trojan-begins-2015-bang/
+
+http://blog.spiderlabs.com/2015/01/tips-for-deobfuscating-the-malicious-macros-using-python.html
+
+http://blog.didierstevens.com/programs/oledump-py/
+
+
